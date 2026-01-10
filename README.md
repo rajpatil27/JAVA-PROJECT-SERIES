@@ -26,6 +26,13 @@ Uses `ArrayList` to store names and marks, view records, and process average.
 ### Day-06: Average & Factorial Calculator  
 Computes average of user-input numbers and calculates the factorial of the integer portion of the average.
 
+### Day-07: Linear Search (1D & 2D Arrays)
+Menu-driven program that performs linear search on 1D and 2D arrays and displays the position of the element if found.
+
+### Day-08: Binary Search System
+Menu-driven binary search program that sorts a 1D array and efficiently searches for an element using binary search logic.
+
+
 ---
 
 ## 🚀 How to Use
