@@ -32,6 +32,12 @@ Menu-driven program that performs linear search on 1D and 2D arrays and displays
 ### Day-08: Binary Search System
 Menu-driven binary search program that sorts a 1D array and efficiently searches for an element using binary search logic.
 
+### Day-09: Fibonacci Series
+Generates the Fibonacci series up to N terms using a loop and basic variable manipulation.
+
+### Day-10: Password Strength Checker
+Checks a user-entered password for length, uppercase, lowercase, digits, and special characters to determine its strength.
+
 
 ---
 
