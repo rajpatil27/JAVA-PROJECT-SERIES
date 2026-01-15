@@ -44,6 +44,9 @@ A simple interactive game where the user guesses a randomly generated number wit
 ### Day-12: To-Do List Application  
 A menu-driven program to add, view, update, and delete tasks using a list-based data structure.
 
+### Day-13: Banking System
+Menu-driven program to simulate basic banking operations like deposit, withdraw, and balance check.
+
 
 ---
 
