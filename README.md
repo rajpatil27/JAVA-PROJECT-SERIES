@@ -38,6 +38,12 @@ Generates the Fibonacci series up to N terms using a loop and basic variable man
 ### Day-10: Password Strength Checker
 Checks a user-entered password for length, uppercase, lowercase, digits, and special characters to determine its strength.
 
+### Day-11: Number Guessing Game  
+A simple interactive game where the user guesses a randomly generated number within a limited number of attempts.
+
+### Day-12: To-Do List Application  
+A menu-driven program to add, view, update, and delete tasks using a list-based data structure.
+
 
 ---
 
